@@ -10,7 +10,7 @@ int  main()
 # Hello World! I'm Marcos 👨🏻‍💻
 
 ## 🫆  About Me
-Hey! My name's Marcos Teixeira. I'm an *illustrator*, *designer* and now *programming student* at **42Porto**. I started learning how to program virtually from scratch at **42Porto** and I'm eager to expand my toolkit in order to combine it with the skills I already have as an **artist**.
+Hey! My name's Marcos Teixeira. I'm an **illustrator**, **designer** and now **programming student** at **42Porto**. I started learning how to program virtually from scratch at **42Porto** and I'm eager to expand my toolkit in order to combine it with the skills I already have as an **artist**.
 Besides, there's no greater satisfaction than to spend hours, days, weeks or months working around a problem just to finally arrive at a clean and workable solution.
 I hope this git serves as a descriptive log of my journey as a dev, storing every project, experiment or coding adventure.
 
