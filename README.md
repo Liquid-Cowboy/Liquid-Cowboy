@@ -34,14 +34,39 @@ I hope this git serves as a descriptive log of my journey as a dev, storing ever
 
 ## 🔍 Featured Projects
 
+<details><summary>
+
 ### 42 Projects
-  * [Piscine](https://github.com/Liquid-Cowboy/42_PISCINE)  
-  #### **Milestone 0**
-  * [Libft](https://github.com/Liquid-Cowboy/42_LIBFT)  
-  #### **Milestone 1**
-  * [Ft_printf](https://github.com/Liquid-Cowboy/42_FT_PRINTF)  
-  * [Get_next_line](https://github.com/Liquid-Cowboy/42_GET_NEXT_LINE)  
-  * [Born_2_be_root](https://github.com/Liquid-Cowboy/42_BORN_2_BE_ROOT)
+  
+</summary>
+  <table align="center">
+    <tr>
+      <td></td>
+      <td><a href="https://github.com/Liquid-Cowboy/42_PISCINE">🏊🏻‍♂️ Piscine</a><br>
+        <a href="https://github.com/Liquid-Cowboy/42_Discovery_Piscine">🏊🏻‍♂️ Discovery Piscine</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Milestone 0</b></td>
+      <td><a href="https://github.com/Liquid-Cowboy/42_LIBFT">📖 Libft</a><br>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Milestone 1</b></td>
+      <td><a href="https://github.com/Liquid-Cowboy/42_FT_PRINTF">✒️ Ft_printf</a><br>
+        <a href="https://github.com/Liquid-Cowboy/42_GET_NEXT_LINE">⏭️ Get Next Line</a><br>
+        <a href="https://github.com/Liquid-Cowboy/42_BORN_2_BE_ROOT">🧠 Born2beRoot</a><br>
+      </td>
+    </tr>
+        <tr>
+      <td><b>Milestone 2</b></td>
+      <td><a href="https://github.com/Liquid-Cowboy/42_PUSH_SWAP">🥞 Push Swap</a><br>
+        <a href="https://github.com/Liquid-Cowboy/42_Python_Piscine">🏊🏻‍♂️ Python Piscine</a>
+      </td>
+    </tr>
+  </table>
+  
+  </details>
 ## 📞 Let's connect!
 
 <div align="center">
