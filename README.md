@@ -67,6 +67,7 @@ I hope this git serves as a descriptive log of my journey as a dev, storing ever
   </table>
   
   </details>
+
 ## 📞 Let's connect!
 
 <div align="center">
