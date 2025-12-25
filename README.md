@@ -18,20 +18,58 @@ I hope this git serves as a descriptive log of my journey as a dev, storing ever
 
 <h3 align="center">🎨 Illustration / Design</h3>  
 
-<div align="center">
-  <img src= "https://skillicons.dev/icons?i=blender" height="47" alt="blender logo" />
-  <img src="https://skillicons.dev/icons?i=ai" height="47" alt="Ai logo" />
-  <img src="https://skillicons.dev/icons?i=ae" height="47" alt="Ae logo" />
-  <img src= "https://skillicons.dev/icons?i=ps" height="47" alt="ps logo" />
-  <img src= "https://skillicons.dev/icons?i=figma" height="47" alt="figma logo" />
-</div>
-  <h3 align="center">⌨️ Programing</h3>  
-  
-<div align="center">
-  <img src= "https://skillicons.dev/icons?i=bash" height="47" alt="bash logo" />
-  <img src="https://skillicons.dev/icons?i=c" height="47" alt="C logo" />
-</div>
+<table align="center">
+  <tr>
+        <td align="center">
+      <img src="https://skillicons.dev/icons?i=blender" height="50" width="50"><br>
+      <sub>Blender</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ai" height="50" width="50"><br>
+      <sub>Adobe Illustrator</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ae" height="50" width="50"><br>
+      <sub>Adobe After Effects</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ps" height="50" width="50"><br>
+      <sub>Adobe Photoshop</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" height="50" width="50"><br>
+      <sub>Figma</sub>
+    </td>
+  </tr>
+</table>
 
+
+<h3 align="center">⌨️ Programing</h3>  
+<table align="center">
+  <tr>
+        <td align="center">
+      <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/bash.svg" height="50" width="50"><br>
+      <sub>Shell</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=c" height="50" width="50"><br>
+      <sub>C</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/others/html.svg" height="50" width="50"><br>
+      <sub>HTML</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/others/css.svg" height="50" width="50"><br>
+      <sub>CSS</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/javascript.svg" height="50" width="50"><br>
+      <sub>JavaScript</sub>
+    </td>
+  </tr>
+</table>
+  
 ## 🔍 Featured Projects
 
 <details><summary>
